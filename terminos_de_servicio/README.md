@@ -18,7 +18,7 @@ Si continúa utilizando el Servicio después de que los Términos revisados entr
 
 ## Política de privacidad
 
-Para obtener información sobre cómo recopilamos y usamos información sobre los usuarios del Servicio, consulte nuestra política de privacidad disponible en [\política_de_privacidad](https://github.com/9punto5/condiciones/blob/main/politica_de_privacidad/README.md).
+Para obtener información sobre cómo recopilamos y usamos información sobre los usuarios del Servicio, consulte nuestra [política deprivacidad](https://github.com/9punto5/condiciones/blob/main/politica_de_privacidad/README.md).
 
 ## Servicios de terceros
 De vez en cuando, podemos proporcionarle enlaces a sitios web o servicios de terceros que no poseemos ni controlamos. Su uso del Servicio también puede incluir el uso de aplicaciones desarrolladas o propiedad de un tercero. Su uso de dichas aplicaciones, sitios web y servicios de terceros se rige por los propios términos de servicio o políticas de privacidad de esa parte. Le recomendamos que lea los términos y condiciones y la política de privacidad de cualquier aplicación, sitio web o servicio de terceros que visite o utilice.
