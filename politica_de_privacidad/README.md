@@ -40,7 +40,7 @@ Usamos aplicaciones de terceros para la analítca web, específicamente Google A
 Usamos CAPTCHA en nuestras aplicaciones para mitigar intentos de acceso por “fuerza bruta” y SPAM.
 
 **Cookies and Do Not Track**
-Usamos “persistent first-party cookies” para guardar preferencias, hacer mas simple para ti acceder a nuestras aplicaciones. Una “cookie” es un texto almacenado por tu navegador para ayudarte a recordar tus datos de acceso, preferencias, y más. Tu puedes ajustar por cuanto tiempo se guardan las cookie  en tu navegados. Para aprender sobre cookies, incluyendo cómo ver qué cookies están siendo usadas, cómo son manejadas, y cómo borrarles, por favor visita [www.allaboutcookies.org]()(http://www.allaboutcookies.org/).
+Usamos “persistent first-party cookies” para guardar preferencias, hacer mas simple para ti acceder a nuestras aplicaciones. Una “cookie” es un texto almacenado por tu navegador para ayudarte a recordar tus datos de acceso, preferencias, y más. Tu puedes ajustar por cuanto tiempo se guardan las cookie  en tu navegados. Para aprender sobre cookies, incluyendo cómo ver qué cookies están siendo usadas, cómo son manejadas, y cómo borrarles, por favor visita allaboutcookies.org.
 
 **Correspondencia y datos voluntarios**
 Cuando tú nos escribes una pregunta y nos solicitas ayuda, nosotros guardamos esa conversación, incluyendo dirección email, así tenemos la historia de conversaciones pasadas para referirla si en necesario en el futuro.
