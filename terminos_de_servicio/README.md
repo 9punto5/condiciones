@@ -97,4 +97,4 @@ Por favor háganos saber lo que piensa del Servicio, estos Términos y, en gener
 
 ## Preguntas e información de contacto
 
-Las preguntas o comentarios sobre el Servicio pueden ser dirigidos a nosotros a la dirección de correo electrónico contacto@9punto5.io.
+Las preguntas o comentarios sobre el Servicio pueden ser dirigidos a nosotros a la dirección de correo electrónico contacto@9punto5.cl.
