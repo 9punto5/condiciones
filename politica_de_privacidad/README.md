@@ -108,7 +108,7 @@ Nuestros productos y aplicaciones web operan en Chile. Ahora bien, el almacenaje
 ## Cambios y preguntas
 Puede que actualicemos esta política según sea necesario para cumplir con regulaciones importantes y para reflejar cualquier nueva práctica en relación a proteger tu privacidad. Los cambios en en la política serán actualizados en este mismo lugar y en el futuro podrás ver estos cambio en GitHub.
 
-¿Tienes cualquier pregunta, comentario, o preocupación sobre esta política de privacidad, tus datos, o tus derechos en relación a tú información? Por favor toma contacto con nosotros en [hola@9punto5.cl]()(mailto:hola@9punto5.cl) y estaremos felices de responderte.
+¿Tienes cualquier pregunta, comentario, o preocupación sobre esta política de privacidad, tus datos, o tus derechos en relación a tú información? Por favor toma contacto con nosotros en [hola@9punto5.cl](mailto:hola@9punto5.cl) y estaremos felices de responderte.
 
-Adaptado desde las políticas open-source de [Basecamp]()(https://basecamp.com/about/policies/privacy) / CC BY 4.0
+Adaptado desde las políticas open-source de [Basecamp](https://basecamp.com/about/policies/privacy) / CC BY 4.0
 
